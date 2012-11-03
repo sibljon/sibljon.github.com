@@ -4,7 +4,7 @@
   <title><![CDATA[Jonathan Sibley]]></title>
   <link href="http://sibljon.github.com/atom.xml" rel="self"/>
   <link href="http://sibljon.github.com/"/>
-  <updated>2012-11-03T14:46:19-07:00</updated>
+  <updated>2012-11-03T15:08:05-07:00</updated>
   <id>http://sibljon.github.com/</id>
   <author>
     <name><![CDATA[Jonathan Sibley]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[UIViewAnimationOptionLayoutSubviews, Huh, What is it Good For?]]></title>
-    <link href="http://sibljon.github.com/blog/iOS/uiviewanimationoptionlayoutsubviews"/>
-    <updated>2012-11-03T12:00:00-07:00</updated>
-    <id>http://sibljon.github.com/blog/iOS/uiviewanimationoptionlayoutsubviews</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
